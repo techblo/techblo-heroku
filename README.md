@@ -8,6 +8,5 @@ Heroku is fully managed, giving developers the freedom to focus on their core pr
 For the instruction please read the blog [here](https://www.techblo.info/2018/09/deploying-spring-boot-applications-to.html).
 
 [Heroku Official Site](https://www.heroku.com/).
-
 [TechBlo Site](https://www.techblo.info)
 # Happy Learning !!
