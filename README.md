@@ -5,4 +5,4 @@ Heroku is a container-based cloud Platform as a Service (PaaS). Developers use H
 
 Heroku is fully managed, giving developers the freedom to focus on their core product without the distraction of maintaining servers, hardware, or infrastructure. The Heroku experience provides services, tools, workflows, and polyglot support—all designed to enhance developer productivity.
 
-**[Heroku Official Site](https://www.heroku.com/) 
+[Heroku Official Site](https://www.heroku.com/) 
